@@ -1,4 +1,4 @@
-# kafka-yc
+# Managed Service for Kafka
 
 1. Создаем кластер в Managed Service for Kafka со Schema Registry, публичным доступом и 3 брокерами.
 Дополнительно Kafka Rest API для управления реестром схем данных.
