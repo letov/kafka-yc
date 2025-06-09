@@ -1,0 +1,14 @@
+{
+  "type": "record",
+  "name": "my_key",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "sid",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "key": {
+      "id": 1111,
+      "sid": "AAAAA-BBBBB-CCCCC"
+    },
+    "value": {
+      "name": "Anna",
+      "city": "Moscow",
+      "age": 44
+    }
+  },
+  {
+    "key": {
+      "id": 2222,
+      "sid": "DDDDD-EEEEE-FFFFF"
+    },
+    "value": {
+      "name": "Alex",
+      "city": "London",
+      "age": 32
+    }
+  }
+]
